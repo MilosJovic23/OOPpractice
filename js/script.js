@@ -16,8 +16,6 @@
 *       Bespilotna- true or false
 *   
 */
-
-
 let vozila = [];
 
 class Vozilo {
