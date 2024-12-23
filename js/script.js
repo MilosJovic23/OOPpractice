@@ -1,22 +1,9 @@
-//
 
-//  Domaci
 
-/*  Dodati dve nove klase "Plovilo" i "Letelica" -moraju naslediti "Vozilo"
-*
-*   U klasu vozilo dodati:
-*       >Brzina
-*       >Tezina
-*
-*   Klasa Plovilo
-*       Tip: Jahta, Jedrenjak, Fregata
-*
-*   Klasa Letelica
-*       Tip: Avion ili Helikopter
-*       Bespilotna- true or false
-*   
-*/
-let vozila = [];
+
+
+
+	let vozila = [];
 
 class Vozilo {
 	vrsta;
